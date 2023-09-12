@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useRef } from "react";
-
+// Utilisation du useRef avec une musique qu'on peut lancer et arrêter
 const music = () => {
     const [isPlaying, setIsplaying] = useState(false)
     const audioRef = useRef(null)

@@ -9,7 +9,9 @@ export default function Home() {
       <Link href="/contact">Contact</Link>
       <Link href="/jeu">jeu</Link>
       <Link href="/music">Musique</Link>
-      <Link href="/theme"></Link>
+      <Link href="/calcul">calcul</Link>
+      <Link href="/callback">callback</Link>
+      <Link href="/instruction">instruction</Link>
     </main>
   )
 }
